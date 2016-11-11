@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Halli Mane</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="loginhme">Login</string>
+    <string name="signuphme">SignUp</string>
+    <string name="newUserSuggestion">New User?</string>
+    <string name="logout">Logout</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="sicopassword">Confirm Password</string>
+    <string name="recheckin">CHECK IN</string>
+    <string name="recheckout">CHECK OUT</string>
+    <string name="forusername">User Name</string>
+    <string name="fornewpassword">New Password</string>
+    <string name="forconfirmpassword">Confirm Password</string>
+    <string name="forupdate">Update</string>
+    <string name="hmeForgotPassword">forgot password</string>
+    <string name="getSecurityCode">get security code</string>
+    <string name="emailid">Email Id</string>
+    <string name="securitycodefinal">Code</string>
+    <string name="codeSubmitFinal">Submit</string>
+    <string name="signupfirstname">Firstname</string>
+    <string name="signuplastname">Lastname</string>
+    <string name="signupConfirmPassword">Re-Enter Password</string>
+    <string name="AllPassword">qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM0123456789*</string>
+    <string name="AllEmail">qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM.0123456789@</string>
+    <string name="AllName">qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM</string>
+    <string name="title_activity_dash_board">DashBoard</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="LogoutSettings">Logout</string>
+    <string name="date_of_birth">Double Tap For Date Of Birth</string>
+    <string name="signupbtn">SignUp</string>
+    <string name="already_have_an_account">Already have an account!</string>
+    <string name="sign_in"><u>Sign In</u></string>
+    <string name="ORNEW"><u>NEW USER?</u></string>
+    <string name="FORGOTPASSWORD"><u>FORGOT PASSWORD?</u></string>
+    <string-array name="Iam">
+        <item>Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string name="title_activity_doddudu">Halli Mane</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_new_password">Enter New Password</string>
+    <string name="retype_new_password">Re-Type New Password</string>
+    <string name="enter_email_forgot_password">Enter Email</string>
+    <string name="enter_secret_code">Enter Secret Code</string>
+</resources>

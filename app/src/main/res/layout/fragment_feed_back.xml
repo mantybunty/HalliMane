@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="5dp"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:paddingTop="5dp"
+    tools:context="com.example.nata.hallimane.FeedBack">
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText
+            android:id="@+id/FeedbackPhoneNumber"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:hint="Subject (Max 20 Char)"
+            android:inputType="text"
+            android:textAlignment="center"
+            android:maxLength="20"
+            android:background="@drawable/my_button_bg"
+            android:imeOptions="actionNext"/>
+    </android.support.design.widget.TextInputLayout>
+
+<android.support.design.widget.TextInputLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <EditText
+        android:id="@+id/Message"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_gravity="center_horizontal"
+        android:hint="Message (Max 200 Char)"
+        android:textAlignment="center"
+        android:gravity="left"
+        android:maxLines="6"
+        android:maxLength="200"
+        android:background="@drawable/my_button_bg"
+        android:imeOptions="actionDone"/>
+</android.support.design.widget.TextInputLayout>
+
+    <Button
+        android:id="@+id/FeedbackButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:background="@drawable/my_button_bg"
+        android:text="Send" />
+</LinearLayout>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    android:orientation="vertical"
+    android:shrinkColumns="*"
+    android:stretchColumns="*">
+<TableRow
+    android:id="@+id/DisplayBookedrooms"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/bookedtype"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:width="30dp"
+        android:gravity="center"
+        android:textColor="#000000"/>
+    <TextView
+        android:id="@+id/bookednum"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:width="30dp"
+        android:gravity="center"
+        android:textColor="#000000"/>
+    <TextView
+        android:id="@+id/bookedcin"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:width="30dp"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="12dp" />
+    <TextView
+        android:id="@+id/bookedcout"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:width="30dp"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="12dp" />
+    <TextView
+        android:id="@+id/bookedprice"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:width="30dp"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textColor="#000000"/>
+
+</TableRow>
+</TableLayout>

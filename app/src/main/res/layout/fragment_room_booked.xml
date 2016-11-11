@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.nata.hallimane.RoomBooked">
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:shrinkColumns="*"
+        android:stretchColumns="*">
+        <TableRow
+            android:id="@+id/Row1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/Roomtep"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Type"
+                android:textColor="#311B92" />
+            <TextView
+                android:id="@+id/RoomNum"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="R-No"
+                android:textColor="#311B92" />
+            <TextView
+                android:id="@+id/Roomcin"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Checkin"
+                android:textColor="#311B92" />
+            <TextView
+                android:id="@+id/Rooomcout"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Checkout"
+                android:textColor="#311B92" />
+            <TextView
+                android:id="@+id/Roomprice"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Price"
+                android:textColor="#311B92" />
+        </TableRow>
+        <ListView
+            android:id="@+id/bookedlist"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="#FFFFFF"
+            android:dividerHeight="3dp"
+            android:background="@drawable/my_button_bg">
+        </ListView>
+        <!--<TextView
+            android:id="@+id/Sumne"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Haha"/>-->
+    </TableLayout>
+</LinearLayout>

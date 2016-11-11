@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_d01332ae8a42b2e8a33bfefc1648cb5495922938/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_1c51c3e1d1b047d5886843be0f38200d2ae632ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_79d8fa57cd4f15c498c091bd4f2db77d6f4eb16d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_c8bb643aab9c90aa5b3186540473dd759e8dd698/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nata/.gradle/caches/modules-2/files-2.1/com.sun.mail/android-mail/1.5.5/53a2f927b235acb565dbe9314ececfb7e6d43020/android-mail-1.5.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a2f927b235acb565dbe9314ececfb7e6d43020">
+        <dex dex="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-mail-1.5.5_33d057ef5caf49f3e6ff544f120cd54588af4db6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_95309d7410ef5d6c053d8729927b024be34ca07b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_8c35c3422af036f049ab992a75ad7ebd10ea1dfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_a05c1237c6bb7bbf1e4e4787237118628564a4d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_912561ec2426bf64e77e6f89b64edecffe7172c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_f7840ef09cc49c9ee0a87c20f456b921c8f9c770/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_931203c0273421011a865b5235217531cb94f556/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_1819d32ac4e6ea5530a8a2e550a07d84bebe7ccd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5d3e1c4196b787a9ac6b20e81a13221cd9866e92">
+        <dex dex="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f6735f7b87cca86197abfedfb636af8c28c6487a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_0e3d10cb665d7be41712af5b598d820f49a1d27c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nata/.gradle/caches/modules-2/files-2.1/com.sun.mail/android-activation/1.5.5/5442d5e05808145434b750c9f8a0c3f537383c5a/android-activation-1.5.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5442d5e05808145434b750c9f8a0c3f537383c5a">
+        <dex dex="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-activation-1.5.5_51c592208c4dd634c8473cd032f6f72936b709b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_f065ded3ca8aa4c839c0570d1389143be2ccc998/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_68587cd6838fb992899352a5cd2a49129e0fa57b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_00b51b35f9eec54fcee9e916b3ad8fc5f7c33e7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_46c9dbd023c88949bc772ad7fa87fa43fb734668/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_c5d4dfbdffc21cbf747de48ad21ea6a00dcb821e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nata/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_a8a6c66cce49b2a1db47bed14d529d15f6a15b7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/exploded-aar/com.github.amigold.fundapter/library/1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12e67307b10da7aad1bd09af41f281a2fed08d96">
+        <dex dex="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.amigold.fundapter-library-1.0_df4a4fa2224c615709ec4fe6e3c3555e9284c0e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="590af6bfd5561dc06f081653b436e221c4f9ae3c">
+        <dex dex="/home/nata/AndroidStudioProjects/HalliMane/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_20e8076a8036791baecb8b7d7c3c6a6c151f5b89/classes.dex" />
+    </item>
+
+</items>

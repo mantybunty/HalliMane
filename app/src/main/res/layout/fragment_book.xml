@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.nata.hallimane.Book">
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:shrinkColumns="*"
+        android:stretchColumns="*">
+        <TableRow
+            android:id="@+id/Heading1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/ShowRoomType1"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Room"
+                android:textColor="#311B92" />
+            <TextView
+                android:id="@+id/ShowCheckinDate1"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Checkin"
+                android:textColor="#311B92" />
+            <TextView
+                android:id="@+id/CheckoutDate1"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Checkout"
+                android:textColor="#311B92" />
+            <TextView
+                android:id="@+id/ShowNumOfRooms1"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Required"
+                android:textColor="#311B92" />
+            <TextView
+                android:id="@+id/ShowNumOfGuests1"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Total"
+                android:textColor="#311B92" />
+        </TableRow>
+        <TableRow
+            android:id="@+id/Heading2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/ShowRoomType2"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Type"
+                android:textColor="#311B92" />
+            <TextView
+                android:id="@+id/ShowCheckinDate2"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Date"
+                android:textColor="#311B92" />
+            <TextView
+                android:id="@+id/CheckoutDate2"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Date"
+                android:textColor="#311B92" />
+            <TextView
+                android:id="@+id/ShowNumOfRooms2"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Rooms"
+                android:textColor="#311B92" />
+            <TextView
+                android:id="@+id/ShowNumOfGuests2"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Guests"
+                android:textColor="#311B92" />
+        </TableRow>
+        <ListView
+            android:id="@+id/SelectedList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:divider="@android:color/darker_gray"
+            android:dividerHeight="3dp"
+            android:background="@drawable/my_button_bg">
+        </ListView>
+        <TextView
+            android:id="@+id/BookMsg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Bed Type"
+            android:textAlignment="center" />
+        <Spinner
+            android:id="@+id/BookRoomspin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center">
+        </Spinner>
+    </TableLayout>
+    <Button
+        android:id="@+id/book"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/my_button_bg"
+        android:gravity="center"
+        android:text="BOOK"
+        android:layout_gravity="center"
+        android:textAlignment="center" />
+</LinearLayout>
